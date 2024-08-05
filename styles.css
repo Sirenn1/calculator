@@ -1,0 +1,21 @@
+.buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+button{
+    background-color:burlywood;
+    width: 30px;
+}
+
+button:hover{
+    background-color:#FFEBCD ;
+}
+
+.display{
+    display: flex;
+    margin-bottom: 10px;
+    border: 1px solid grey;
+    width: 150px;
+}
